@@ -1,0 +1,192 @@
+School Year,County Number,County Name,District Number,District Name,School Number,School Name,School Code,State School Id,NCES ID,CO-OP,CO-OP Code,School Type,Federal Classification,Level,Title 1,Number Of Years Identified,Reason For Federal Classification
+20242025,010,BOYD,012,Ashland Independent,050,Ashland Middle School,012050,010012050,210015000000,KEDC,903,A1,ATSI,Middle School,Y,4,Disability
+20242025,090,NELSON,017,Bardstown Independent,030,Bardstown Middle School,017030,090017030,210027000000,CKEC,901,A1,ATSI,Middle School,N,4,Disability
+20242025,005,BARREN,021,Barren County,130,Park City Elementary School,021130,005021130,210030000000,GRREC,902,A1,ATSI,Elementary School,Y,4,Disability
+20242025,008,BOONE,035,Boone County,005,A M Yealey Elementary School,035005,008035005,210051000000,NKCES,905,A1,ATSI,Elementary School,Y,4,Disability
+20242025,008,BOONE,035,Boone County,015,Randall K. Cooper High School,035015,008035015,210051000000,NKCES,905,A1,TSI,High School,N,,Disability
+20242025,008,BOONE,035,Boone County,020,Rector A. Jones Middle School,035020,008035020,210051000000,NKCES,905,A1,ATSI,Middle School,Y,4,Disability
+20242025,008,BOONE,035,Boone County,030,Boone County High School,035030,008035030,210051000000,NKCES,905,A1,ATSI,High School,N,4,English Learners plus Monitored; Disability
+20242025,008,BOONE,035,Boone County,045,Conner High School,035045,008035045,210051000000,NKCES,905,A1,ATSI,High School,N,4,Disability
+20242025,008,BOONE,035,Boone County,050,Florence Elementary School,035050,008035050,210051000000,NKCES,905,A1,TSI,Elementary School,Y,,Disability
+20242025,008,BOONE,035,Boone County,081,Ockerman Elementary School,035081,008035081,210051000000,NKCES,905,A1,ATSI,Elementary School,Y,4,Disability
+20242025,008,BOONE,035,Boone County,083,Stephens Elementary School,035083,008035083,210051000000,NKCES,905,A1,TSI,Elementary School,Y,,Disability
+20242025,009,BOURBON,041,Bourbon County,010,Bourbon Central Elementary School,041010,009041010,210054000000,CKEC,901,A1,TSI,Elementary School,Y,,Disability
+20242025,009,BOURBON,041,Bourbon County,120,Bourbon County Middle School,041120,009041120,210054000000,CKEC,901,A1,ATSI,Middle School,N,4,Disability
+20242025,114,WARREN,042,Bowling Green Independent,065,Bowling Green Junior High,042065,114042065,210057000000,GRREC,902,A1,ATSI,Middle School,Y,4,Disability
+20242025,114,WARREN,042,Bowling Green Independent,070,Bowling Green High School,042070,114042070,210057000000,GRREC,902,A1,ATSI,High School,Y,4,English Learners plus Monitored
+20242025,010,BOYD,045,Boyd County,095,Catlettsburg Elementary School,045095,010045095,210062000000,KEDC,903,A1,TSI,Elementary School,Y,,Disability
+20242025,014,BRECKINRIDGE,065,Breckinridge County,050,Irvington Elementary School,065050,014065050,210072000141,GRREC,902,A1,TSI,Elementary School,Y,,Disability
+20242025,015,BULLITT,071,Bullitt County,007,Zoneton Middle School,071007,015071007,210075000000,OVEC,906,A1,CSI,Middle School,Y,1,Bottom 5%
+20242025,015,BULLITT,071,Bullitt County,008,Shepherdsville Elementary,071008,015071008,210075000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,015,BULLITT,071,Bullitt County,010,Brooks Elementary School,071010,015071010,210075000000,OVEC,906,A1,TSI,Elementary School,Y,,Economically Disadvantaged
+20242025,015,BULLITT,071,Bullitt County,025,Hebron Middle School,071025,015071025,210075000000,OVEC,906,A1,ATSI,Middle School,Y,4,Disability
+20242025,015,BULLITT,071,Bullitt County,045,Maryville Elementary School,071045,015071045,210075000000,OVEC,906,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,015,BULLITT,071,Bullitt County,050,MT. Washington Middle School,071050,015071050,210075000000,OVEC,906,A1,ATSI,Middle School,Y,4,Disability
+20242025,015,BULLITT,071,Bullitt County,070,Nichols Elementary,071070,015071070,210075000000,OVEC,906,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,015,BULLITT,071,Bullitt County,075,North Bullitt High School,071075,015071075,210075000000,OVEC,906,A1,TSI,High School,Y,,Disability
+20242025,019,CAMPBELL,091,Campbell County,011,Campbell County Middle School,091011,019091011,210090000000,NKCES,905,A1,ATSI,Middle School,N,4,Disability
+20242025,021,CARROLL,101,Carroll County,005,Cartmell Elementary,101005,021101005,210099000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,021,CARROLL,101,Carroll County,010,Kathryn Winn Primary,101010,021101010,210099000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,022,CARTER,105,Carter County,505,West Carter Middle School,105505,022105505,210102000000,KEDC,903,A1,TSI,Middle School,Y,,Disability
+20242025,005,BARREN,113,Caverna Independent,025,Caverna Elementary School,113025,005113025,210111000000,GRREC,902,A1,TSI,Elementary School,Y,,Disability
+20242025,024,CHRISTIAN,115,Christian County,026,Freedom Elementary School,115026,024115026,210115000000,WKEC,908,A1,ATSI,Elementary School,Y,3,Disability
+20242025,024,CHRISTIAN,115,Christian County,030,Christian County High School,115030,024115030,210115000000,WKEC,908,A1,ATSI,High School,Y,4,Disability
+20242025,024,CHRISTIAN,115,Christian County,035,Christian County Middle School,115035,024115035,210115000000,WKEC,908,A1,ATSI,Middle School,Y,4,Disability
+20242025,024,CHRISTIAN,115,Christian County,058,Hopkinsville Middle School,115058,024115058,210115000000,WKEC,908,A1,ATSI,Middle School,Y,4,Disability
+20242025,024,CHRISTIAN,115,Christian County,130,Pembroke Elementary School,115130,024115130,210115000000,WKEC,908,A1,ATSI,Elementary School,Y,4,Disability
+20242025,025,CLARK,121,Clark County,026,Rev. Henry E. Baker Sr. Interm. School,121026,025121026,210120000000,CKEC,901,A1,TSI,Middle School,Y,,Disability
+20242025,014,BRECKINRIDGE,132,Cloverport Independent,030,Cloverport Independent School,132030,014132030,210129000000,GRREC,902,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,011,BOYLE,143,Danville Independent,003,Mary G. Hogsett Primary School,143003,011143003,210144000000,CKEC,901,A1,ATSI,Elementary School,Y,4,Disability
+20242025,011,BOYLE,143,Danville Independent,010,Edna L. Toliver Intermediate School,143010,011143010,210144000000,CKEC,901,A1,ATSI,Elementary School,Y,4,Disability
+20242025,059,KENTON,157,Erlanger-Elsmere Independent,060,Tichenor Middle School,157060,059157060,210174000000,NKCES,905,A1,ATSI,Middle School,N,4,Disability
+20242025,034,FAYETTE,165,Fayette County,005,Arlington Elementary School,165005,034165005,210186000000,CKEC,901,A1,TSI,Elementary School,Y,,Hispanic; English Learners plus Monitored
+20242025,034,FAYETTE,165,Fayette County,030,Bryan Station Middle School,165030,034165030,210186000000,CKEC,901,A1,ATSI,Middle School,Y,2,Disability
+20242025,034,FAYETTE,165,Fayette County,039,Henry Clay High School,165039,034165039,210186000364,CKEC,901,A1,ATSI,High School,Y,4,English Learners plus Monitored; Disability
+20242025,034,FAYETTE,165,Fayette County,065,Leestown Middle School,165065,034165065,210186000000,CKEC,901,A1,ATSI,Middle School,Y,4,Disability
+20242025,034,FAYETTE,165,Fayette County,067,Lexington Middle School,165067,034165067,210186000000,CKEC,901,A1,ATSI,Middle School,Y,4,Disability
+20242025,034,FAYETTE,165,Fayette County,090,Russell Cave Elementary School,165090,034165090,210186000000,CKEC,901,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,034,FAYETTE,165,Fayette County,095,Tates Creek Elementary School,165095,034165095,210186000381,CKEC,901,A1,TSI,Elementary School,Y,,Disability
+20242025,034,FAYETTE,165,Fayette County,100,Tates Creek Middle School,165100,034165100,210186000000,CKEC,901,A1,ATSI,Middle School,Y,4,Disability
+20242025,034,FAYETTE,165,Fayette County,125,Frederick Douglass High School,165125,034165125,210186000000,CKEC,901,A1,ATSI,High School,Y,4,Disability
+20242025,034,FAYETTE,165,Fayette County,170,Bryan Station High School,165170,034165170,210186000000,CKEC,901,A1,ATSI,High School,Y,4,English Learners plus Monitored
+20242025,034,FAYETTE,165,Fayette County,200,Paul Laurence Dunbar High School,165200,034165200,210186000000,CKEC,901,A1,ATSI,High School,Y,4,English Learners plus Monitored
+20242025,034,FAYETTE,165,Fayette County,245,Winburn Middle School,165245,034165245,210186000000,CKEC,901,A1,ATSI,Middle School,Y,4,English Learners plus Monitored; Disability
+20242025,034,FAYETTE,165,Fayette County,255,Millcreek Elementary School,165255,034165255,210186000000,CKEC,901,A1,ATSI,Elementary School,Y,4,Disability
+20242025,034,FAYETTE,165,Fayette County,525,Southern Middle School,165525,034165525,210186000394,CKEC,901,A1,ATSI,Middle School,Y,4,English Learners plus Monitored; Disability
+20242025,036,FLOYD,175,Floyd County,440,James D. Adams Middle School,175440,036175440,210195000000,KVEC,904,A1,ATSI,Middle School,Y,4,Disability
+20242025,037,FRANKLIN,181,Franklin County,014,Bridgeport Elementary School,181014,037181014,210201000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,037,FRANKLIN,181,Franklin County,015,Bondurant Middle School,181015,037181015,210201000000,OVEC,906,A1,ATSI,Middle School,N,4,Disability
+20242025,037,FRANKLIN,181,Franklin County,030,Elkhorn Middle School,181030,037181030,210201000000,OVEC,906,A1,ATSI,Middle School,N,4,English Learners plus Monitored; Disability
+20242025,037,FRANKLIN,181,Franklin County,045,Hearn Elementary,181045,037181045,210201000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,038,FULTON,186,Fulton Independent,018,Fulton Independent School,186018,038186018,210207002205,WKEC,908,A1,CSI,Middle School,Y,1,Bottom 5%
+20242025,039,GALLATIN,191,Gallatin County,006,Gallatin County Upper Elementary,191006,039191006,210213000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,039,GALLATIN,191,Gallatin County,010,Gallatin County Lower Elementary,191010,039191010,210213000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,041,GRANT,201,Grant County,016,Sherman Elementary,201016,041201016,210225000000,OVEC,906,A1,TSI,Elementary School,Y,,Disability
+20242025,043,GRAYSON,211,Grayson County,085,Grayson County High School,211085,043211085,210230000000,GRREC,902,A1,TSI,High School,N,,Disability
+20242025,045,GREENUP,221,Greenup County,024,Wurtland Middle School,221024,045221024,210240001610,KEDC,903,A1,ATSI,Middle School,Y,4,Disability
+20242025,046,HANCOCK,225,Hancock County,007,Hancock County Middle School,225007,046225007,210246000000,GRREC,902,A1,TSI,Middle School,N,,Disability
+20242025,047,HARDIN,231,Hardin County,015,Bluegrass Middle School,231015,047231015,210249000000,GRREC,902,A1,ATSI,Middle School,Y,4,Disability
+20242025,047,HARDIN,231,Hardin County,075,North Hardin High School,231075,047231075,210249000000,GRREC,902,A1,ATSI,High School,Y,4,Disability
+20242025,047,HARDIN,231,Hardin County,080,North Middle School,231080,047231080,210249000000,GRREC,902,A1,ATSI,Middle School,Y,4,Disability
+20242025,054,HOPKINS,265,Hopkins County,130,Hopkins County Central High School,265130,054265130,210286000000,WKEC,908,A1,TSI,High School,Y,,Disability
+20242025,056,JEFFERSON,275,Jefferson County,005,Cane Run Elementary,275005,056275005,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,007,Eastern High,275007,056275007,210299000000,GREC,909,A1,ATSI,High School,N,4,English Learners plus Monitored; Disability
+20242025,056,JEFFERSON,275,Jefferson County,011,Fern Creek Elementary,275011,056275011,210299000000,GREC,909,A1,ATSI,Elementary School,Y,4,Disability
+20242025,056,JEFFERSON,275,Jefferson County,012,Fern Creek High,275012,056275012,210299000000,GREC,909,A1,ATSI,High School,Y,4,Disability
+20242025,056,JEFFERSON,275,Jefferson County,014,Greenwood Elementary,275014,056275014,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,027,Okolona Elementary,275027,056275027,210299000000,GREC,909,A1,TSI,Elementary School,Y,,African American
+20242025,056,JEFFERSON,275,Jefferson County,031,Southern High,275031,056275031,210299000000,GREC,909,A1,ATSI,High School,Y,4,Disability
+20242025,056,JEFFERSON,275,Jefferson County,041,Newburg Middle,275041,056275041,210299000000,GREC,909,A1,ATSI,Middle School,Y,4,African American; English Learners plus Monitored; Economically Disadvantaged; Disability
+20242025,056,JEFFERSON,275,Jefferson County,049,Farnsley Middle,275049,056275049,210299000000,GREC,909,A1,ATSI,Middle School,Y,4,African American; Disability
+20242025,056,JEFFERSON,275,Jefferson County,051,Waggener High,275051,056275051,210299000000,GREC,909,A1,TSI,High School,Y,,Disability
+20242025,056,JEFFERSON,275,Jefferson County,057,Fairdale High,275057,056275057,210299000000,GREC,909,A1,CSI,High School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,065,Jeffersontown High,275065,056275065,210299000000,GREC,909,A1,TSI,High School,Y,,Disability
+20242025,056,JEFFERSON,275,Jefferson County,066,Wilkerson Elementary School,275066,056275066,210299000000,GREC,909,A1,TSI,Elementary School,Y,,Disability
+20242025,056,JEFFERSON,275,Jefferson County,072,Watterson Elementary,275072,056275072,210299000000,GREC,909,A1,ATSI,Elementary School,Y,4,Disability
+20242025,056,JEFFERSON,275,Jefferson County,073,Seneca High,275073,056275073,210299000000,GREC,909,A1,TSI,High School,Y,,English Learners plus Monitored
+20242025,056,JEFFERSON,275,Jefferson County,076,Indian Trail Elementary,275076,056275076,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,077,Westport Middle,275077,056275077,210299000000,GREC,909,A1,ATSI,Middle School,Y,4,African American; Disability
+20242025,056,JEFFERSON,275,Jefferson County,079,Kerrick Elementary,275079,056275079,210299000000,GREC,909,A1,CSI,Elementary School,Y,4,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,081,Rangeland Elementary,275081,056275081,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,083,Cochrane Elementary,275083,056275083,210299000000,GREC,909,A1,TSI,Elementary School,Y,,Disability
+20242025,056,JEFFERSON,275,Jefferson County,084,Western High,275084,056275084,210299000000,GREC,909,A1,ATSI,High School,Y,3,Disability
+20242025,056,JEFFERSON,275,Jefferson County,090,Thomas Jefferson Middle,275090,056275090,210299000000,GREC,909,A1,CSI,Middle School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,092,Crums Lane Elementary,275092,056275092,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,097,Shacklette Elementary,275097,056275097,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,099,Minors Lane Elementary,275099,056275099,210299000000,GREC,909,A1,TSI,Elementary School,Y,,Disability
+20242025,056,JEFFERSON,275,Jefferson County,100,Doss High,275100,056275100,210299000000,GREC,909,A1,CSI,High School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,102,Chancey Elementary,275102,056275102,210299000000,GREC,909,A1,TSI,Elementary School,Y,,Disability
+20242025,056,JEFFERSON,275,Jefferson County,104,Trunnell Elementary,275104,056275104,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,119,Crosby Middle,275119,056275119,210299000000,GREC,909,A1,ATSI,Middle School,N,4,African American; Disability
+20242025,056,JEFFERSON,275,Jefferson County,121,Hartstern Elementary,275121,056275121,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,128,Price Elementary,275128,056275128,210299000000,GREC,909,A1,ATSI,Elementary School,Y,4,Disability
+20242025,056,JEFFERSON,275,Jefferson County,133,Lassiter Middle,275133,056275133,210299000000,GREC,909,A1,ATSI,Middle School,Y,4,African American; English Learners plus Monitored; Disability
+20242025,056,JEFFERSON,275,Jefferson County,144,Stuart Middle School,275144,056275144,210299000000,GREC,909,A1,CSI,Middle School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,147,Mill Creek Elementary,275147,056275147,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,149,Blake Elementary,275149,056275149,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,155,Marion C. Moore School,275155,056275155,210299000000,GREC,909,A1,CSI,High School,Y,4,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,155,Marion C. Moore School,275155,056275155,210299000000,GREC,909,A1,CSI,Middle School,Y,4,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,162,Kammerer Middle,275162,056275162,210299000000,GREC,909,A1,ATSI,Middle School,N,4,African American; Disability
+20242025,056,JEFFERSON,275,Jefferson County,163,Knight Middle,275163,056275163,210299000000,GREC,909,A1,CSI,Middle School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,164,Conway Middle,275164,056275164,210299000000,GREC,909,A1,CSI,Middle School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,166,Jeffersontown Elementary,275166,056275166,210299000000,GREC,909,A1,ATSI,Elementary School,Y,4,African American; Disability
+20242025,056,JEFFERSON,275,Jefferson County,167,Carrithers Middle,275167,056275167,210299000000,GREC,909,A1,ATSI,Middle School,Y,4,English Learners plus Monitored; Economically Disadvantaged; Disability
+20242025,056,JEFFERSON,275,Jefferson County,182,Dr. William H. Perry Elementary School,275182,056275182,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,185,Atkinson Academy,275185,056275185,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,219,Ramsey Middle,275219,056275219,210299000000,GREC,909,A1,ATSI,Middle School,Y,4,Disability
+20242025,056,JEFFERSON,275,Jefferson County,240,Engelhard Elementary,275240,056275240,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,243,Byck Elementary,275243,056275243,210299000740,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,320,Highland Middle,275320,056275320,210299000000,GREC,909,A1,ATSI,Middle School,Y,4,African American; Disability
+20242025,056,JEFFERSON,275,Jefferson County,323,Cochran Elementary,275323,056275323,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,325,Jacob Elementary,275325,056275325,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,335,Iroquois High,275335,056275335,210299000000,GREC,909,A1,CSI,High School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,340,Meyzeek Middle,275340,056275340,210299000000,GREC,909,A1,ATSI,Middle School,N,4,African American; Disability
+20242025,056,JEFFERSON,275,Jefferson County,374,Young Elementary,275374,056275374,210299000757,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,406,Dr. J. Blaine Hudson Middle School,275406,056275406,210299000000,GREC,909,A1,CSI,Middle School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,432,King Elementary,275432,056275432,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,440,Mcferran Preparatory Academy,275440,056275440,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,470,Johnson Traditional Middle,275470,056275470,210299000000,GREC,909,A1,CSI,Middle School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,480,Maupin Elementary,275480,056275480,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,520,Lincoln Elementary Performing Arts,275520,056275520,210299000000,GREC,909,A1,TSI,Elementary School,N,,African American
+20242025,056,JEFFERSON,275,Jefferson County,560,Rutherford Elementary,275560,056275560,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,580,Semple Elementary,275580,056275580,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,590,The Academy @ Shawnee,275590,056275590,210299000000,GREC,909,A1,CSI,High School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,590,The Academy @ Shawnee,275590,056275590,210299000000,GREC,909,A1,CSI,Middle School,Y,4,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,610,Shelby Academy,275610,056275610,210299000000,GREC,909,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,620,Frederick Law Olmsted Academy North,275620,056275620,210299000000,GREC,909,A1,CSI,Middle School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,660,Coleridge-Taylor Montessori Elementary,275660,056275660,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,720,Kennedy Elementary,275720,056275720,210299000000,GREC,909,A1,CSI,Elementary School,Y,5,Bottom 5%
+20242025,056,JEFFERSON,275,Jefferson County,730,Frederick Law Olmsted Academy South,275730,056275730,210299000000,GREC,909,A1,CSI,Middle School,Y,4,Bottom 5%
+20242025,057,JESSAMINE,281,Jessamine County,019,West Jessamine High School,281019,057281019,210303000000,CKEC,901,A1,TSI,High School,N,,Disability
+20242025,057,JESSAMINE,281,Jessamine County,021,East Jessamine High School,281021,057281021,210303000000,CKEC,901,A1,ATSI,High School,N,4,Disability
+20242025,057,JESSAMINE,281,Jessamine County,026,West Jessamine Middle School,281026,057281026,210303000000,CKEC,901,A1,ATSI,Middle School,Y,4,Disability
+20242025,057,JESSAMINE,281,Jessamine County,050,Nicholasville Elementary School,281050,057281050,210303000000,CKEC,901,A1,TSI,Elementary School,Y,,Disability
+20242025,057,JESSAMINE,281,Jessamine County,070,Brookside Elementary School,281070,057281070,210303000000,CKEC,901,A1,ATSI,Elementary School,Y,4,Disability
+20242025,067,LETCHER,331,Letcher County,425,Martha Jane Potter Elementary School,331425,067331425,210336000000,KVEC,904,A1,ATSI,Elementary School,Y,4,Disability
+20242025,068,LEWIS,335,Lewis County,100,Lewis County Middle School,335100,068335100,210339000000,KEDC,903,A1,ATSI,Middle School,Y,4,Disability
+20242025,069,LINCOLN,341,Lincoln County,040,Crab Orchard Elementary School,341040,069341040,210348000000,SESC,907,A1,TSI,Elementary School,Y,,Disability
+20242025,069,LINCOLN,341,Lincoln County,065,Lincoln County Middle School,341065,069341065,210348000000,SESC,907,A1,ATSI,Middle School,Y,4,Disability
+20242025,069,LINCOLN,341,Lincoln County,130,Stanford Elementary School,341130,069341130,210348000000,SESC,907,A1,TSI,Elementary School,Y,,Disability
+20242025,073,MADISON,365,Madison County,020,Madison Middle School,365020,073365020,210372000000,SESC,907,A1,ATSI,Middle School,Y,4,Disability
+20242025,083,MENIFEE,415,Menifee County,090,Menifee County High School,415090,083415090,210408000000,KEDC,903,A1,CSI,Middle School,N,1,Bottom 5%
+20242025,085,METCALFE,425,Metcalfe County,060,Metcalfe County Elementary School,425060,085425060,210414000000,GRREC,902,A1,ATSI,Elementary School,Y,4,Disability
+20242025,087,MONTGOMERY,435,Montgomery County,040,Montgomery County High School,435040,087435040,210425000000,CKEC,901,A1,ATSI,High School,N,4,Disability
+20242025,087,MONTGOMERY,435,Montgomery County,070,McNabb Middle School,435070,087435070,210425000000,CKEC,901,A1,ATSI,Middle School,N,4,Disability
+20242025,089,MUHLENBERG,445,Muhlenberg County,150,Muhlenberg County Middle School,445150,089445150,210008000000,WKEC,908,A1,TSI,Middle School,N,,Disability
+20242025,090,NELSON,451,Nelson County,010,Bloomfield Middle School,451010,090451010,210441000000,CKEC,901,A1,ATSI,Middle School,Y,4,Disability
+20242025,090,NELSON,451,Nelson County,070,Foster Heights Elementary School,451070,090451070,210441000000,CKEC,901,A1,ATSI,Elementary School,Y,3,Disability
+20242025,090,NELSON,451,Nelson County,090,Old Kentucky Home Middle School,451090,090451090,210441000000,CKEC,901,A1,ATSI,Middle School,Y,4,Disability
+20242025,019,CAMPBELL,452,Newport Independent,020,Newport Primary School,452020,019452020,210444000000,NKCES,905,A1,ATSI,Elementary School,Y,4,African American
+20242025,019,CAMPBELL,452,Newport Independent,040,Newport Intermediate School,452040,019452040,210444001100,NKCES,905,A1,ATSI,Elementary School,Y,4,African American
+20242025,092,OHIO,461,Ohio County,155,Ohio County High School,461155,092461155,210450000000,GRREC,902,A1,ATSI,High School,N,4,English Learners plus Monitored
+20242025,093,OLDHAM,465,Oldham County,070,Oldham County Middle School,465070,093465070,210453000000,OVEC,906,A1,TSI,Middle School,N,,English Learners plus Monitored
+20242025,094,OWEN,471,Owen County,078,Maurice Bowling Middle School,471078,094471078,210456000000,OVEC,906,A1,ATSI,Middle School,Y,4,Disability
+20242025,030,DAVIESS,472,Owensboro Independent,108,Owensboro Middle School,472108,030472108,210459000000,GRREC,902,A1,ATSI,Middle School,Y,4,English Learners plus Monitored
+20242025,079,MCCRACKEN,476,Paducah Independent,010,Paducah Middle School,476010,079476010,210465000000,WKEC,908,A1,ATSI,Middle School,Y,4,Disability
+20242025,096,PENDLETON,481,Pendleton County,061,Phillip Sharp Middle School,481061,096481061,210474000000,NKCES,905,A1,ATSI,Middle School,Y,4,Disability
+20242025,097,PERRY,485,Perry County,635,Robert W Combs Elementary School,485635,097485635,210477000000,KVEC,904,A1,TSI,Elementary School,Y,,Disability
+20242025,099,POWELL,495,Powell County,015,Powell County Middle School,495015,099495015,210489000000,CKEC,901,A1,CSI,Middle School,Y,1,Bottom 5%
+20242025,071,LOGAN,523,Russellville Independent,025,R E Stevenson Elementary School,523025,071523025,210519000000,GRREC,902,A1,ATSI,Elementary School,Y,4,Disability
+20242025,105,SCOTT,525,Scott County,012,Anne Mason Elementary School,525012,105525012,210526000000,CKEC,901,A1,ATSI,Elementary School,Y,4,Disability
+20242025,105,SCOTT,525,Scott County,018,Georgetown Middle School,525018,105525018,210526000000,CKEC,901,A1,ATSI,Middle School,Y,4,Disability
+20242025,105,SCOTT,525,Scott County,029,Creekside Elementary,525029,105525029,210526000000,CKEC,901,A1,TSI,Elementary School,Y,,Disability
+20242025,105,SCOTT,525,Scott County,040,Scott County High School,525040,105525040,210526000000,CKEC,901,A1,ATSI,High School,N,4,Disability
+20242025,105,SCOTT,525,Scott County,070,Southern Elementary School,525070,105525070,210526000000,CKEC,901,A1,ATSI,Elementary School,Y,4,Disability
+20242025,105,SCOTT,525,Scott County,080,Western Elementary School,525080,105525080,210526000000,CKEC,901,A1,TSI,Elementary School,Y,,English Learners plus Monitored
+20242025,106,SHELBY,531,Shelby County,014,Painted Stone Elementary,531014,106531014,210532000000,OVEC,906,A1,ATSI,Elementary School,Y,4,English Learners plus Monitored
+20242025,106,SHELBY,531,Shelby County,040,Martha Layne Collins High School,531040,106531040,210532000000,OVEC,906,A1,ATSI,High School,N,4,English Learners plus Monitored
+20242025,106,SHELBY,531,Shelby County,054,Marnel C. Moorman School,531054,106531054,210532000000,OVEC,906,A1,ATSI,Middle School,Y,4,English Learners plus Monitored; Disability
+20242025,106,SHELBY,531,Shelby County,080,Shelby County West Middle School,531080,106531080,210532000000,OVEC,906,A1,ATSI,Middle School,N,4,Hispanic; English Learners plus Monitored; Disability
+20242025,106,SHELBY,531,Shelby County,110,Shelby County East Middle School,531110,106531110,210532000000,OVEC,906,A1,ATSI,Middle School,N,4,English Learners plus Monitored; Disability
+20242025,106,SHELBY,531,Shelby County,120,Clear Creek Elementary,531120,106531120,210532000000,OVEC,906,A1,ATSI,Elementary School,Y,4,Disability
+20242025,106,SHELBY,531,Shelby County,130,Wright Elementary,531130,106531130,210532000000,OVEC,906,A1,TSI,Elementary School,Y,,Disability
+20242025,107,SIMPSON,535,Simpson County,030,Franklin-Simpson Middle School,535030,107535030,210540000000,GRREC,902,A1,ATSI,Middle School,Y,4,Disability
+20242025,112,TRIMBLE,561,Trimble County,010,Bedford Elementary School,561010,112561010,210561000000,OVEC,906,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,112,TRIMBLE,561,Trimble County,020,Milton Elementary School,561020,112561020,210561000000,OVEC,906,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,113,UNION,565,Union County,055,Union County Middle School,565055,113565055,210564000000,WKEC,908,A1,ATSI,Middle School,Y,4,Disability
+20242025,114,WARREN,571,Warren County,175,Henry F. Moss Middle School,571175,114571175,210573000000,GRREC,902,A1,ATSI,Middle School,Y,4,English Learners plus Monitored; Disability
+20242025,114,WARREN,571,Warren County,200,Warren Elementary,571200,114571200,210573000000,GRREC,902,A1,CSI,Elementary School,Y,1,Bottom 5%
+20242025,116,WAYNE,581,Wayne County,051,Wayne County Middle School,581051,116581051,210579000000,SESC,907,A1,ATSI,Middle School,Y,4,Disability
+20242025,116,WAYNE,581,Wayne County,190,Monticello Elementary School,581190,116581190,210579000000,SESC,907,A1,TSI,Elementary School,Y,,Disability
+20242025,116,WAYNE,581,Wayne County,200,Wayne County High School,581200,116581200,210579000000,SESC,907,A1,TSI,High School,N,,English Learners plus Monitored
+20242025,116,WAYNE,581,Wayne County,437,Bell Elementary School,581437,116581437,210579000000,SESC,907,A1,TSI,Elementary School,Y,,Disability
