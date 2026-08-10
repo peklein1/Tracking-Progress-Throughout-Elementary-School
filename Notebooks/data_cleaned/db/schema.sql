@@ -1,5 +1,5 @@
 
-PRAGMA foreign_keys = ON;
+-- PRAGMA foreign_keys = ON;
 
 -- Table: student_diagnostics
 CREATE TABLE IF NOT EXISTS student_diagnostics (
