@@ -3,7 +3,7 @@
 
 -- Table: student_diagnostics
 CREATE TABLE IF NOT EXISTS student_diagnostics (
-	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	id INTEGER PRIMARY KEY,
 	student_id TEXT,
 	test_date TEXT,
 	grade_level TEXT,
